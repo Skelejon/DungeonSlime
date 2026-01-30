@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj": {}
+    "c:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj": {
+    "c:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj",
+        "projectUniqueName": "c:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj",
         "projectName": "DungeonSlime",
-        "projectPath": "C:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj",
+        "projectPath": "c:\\Projects\\MonoGameLearning\\DungeonSlime\\DungeonSlime.csproj",
         "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MonoGameLearning\\DungeonSlime\\obj\\",
+        "outputPath": "c:\\Projects\\MonoGameLearning\\DungeonSlime\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj": {
-                "projectPath": "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj"
+              "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+                "projectPath": "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj"
               }
             }
           }
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectPath": "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\obj\\",
+        "outputPath": "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"

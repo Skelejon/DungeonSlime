@@ -31,3 +31,6 @@ c:\Projects\MonoGameLearning\DungeonSlime\obj\Debug\net9.0\refint\DungeonSlime.d
 c:\Projects\MonoGameLearning\DungeonSlime\obj\Debug\net9.0\DungeonSlime.pdb
 c:\Projects\MonoGameLearning\DungeonSlime\obj\Debug\net9.0\DungeonSlime.genruntimeconfig.cache
 c:\Projects\MonoGameLearning\DungeonSlime\obj\Debug\net9.0\ref\DungeonSlime.dll
+c:\Projects\MonoGameLearning\DungeonSlime\bin\Debug\net9.0\MonoGameLibrary.dll
+c:\Projects\MonoGameLearning\DungeonSlime\bin\Debug\net9.0\MonoGameLibrary.pdb
+c:\Projects\MonoGameLearning\DungeonSlime\obj\Debug\net9.0\DungeonSlime.sourcelink.json
