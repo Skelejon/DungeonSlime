@@ -278,11 +278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectUniqueName": "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "projectName": "MonoGameLibrary",
-      "projectPath": "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
+      "projectPath": "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
       "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\MonoGameLearning\\MonoGameLibrary\\obj\\",
+      "outputPath": "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"

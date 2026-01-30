@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
+    "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {}
   },
   "projects": {
-    "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj": {
+    "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectUniqueName": "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "projectName": "MonoGameLibrary",
-        "projectPath": "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\MonoGameLibrary.csproj",
+        "projectPath": "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\MonoGameLibrary.csproj",
         "packagesPath": "C:\\Users\\Jonathan\\.nuget\\packages\\",
-        "outputPath": "c:\\Projects\\MonoGameLearning\\MonoGameLibrary\\obj\\",
+        "outputPath": "C:\\Projects\\DungeonSlime\\MonoGameLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jonathan\\AppData\\Roaming\\NuGet\\NuGet.Config"

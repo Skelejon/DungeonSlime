@@ -1,0 +1,29 @@
+# =========================
+# .NET / MonoGame
+# =========================
+
+# Build output
+**/bin/
+**/obj/
+
+# MonoGame Content Pipeline output
+Content/bin/
+Content/obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/*
+!.vscode/extensions.json
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+
+# Logs & temp files
+*.log
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
